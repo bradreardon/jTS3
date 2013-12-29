@@ -23,7 +23,7 @@
     </properties>
     
     <scm>
-        <developerConnection>scm:git:https://github.com/bradreardon/jts3.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:bradreardon/jTS3.git</developerConnection>
     </scm>
   
     <build>
